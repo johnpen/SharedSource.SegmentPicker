@@ -1,0 +1,5 @@
+D:\Websites\HOF\SharedSource.ProfilePicker\obj\Debug\SharedSource.SegmentPicker.csprojResolveAssemblyReference.cache
+D:\Websites\HOF\SharedSource.ProfilePicker\bin\SharedSource.SegmentPicker.dll
+D:\Websites\HOF\SharedSource.ProfilePicker\bin\SharedSource.SegmentPicker.pdb
+D:\Websites\HOF\SharedSource.ProfilePicker\obj\Debug\SharedSource.SegmentPicker.dll
+D:\Websites\HOF\SharedSource.ProfilePicker\obj\Debug\SharedSource.SegmentPicker.pdb
